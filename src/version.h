@@ -11,6 +11,9 @@
 
 static const int PROTOCOL_VERSION = 170002;
 
+//! Overwinter proto version
+static const int OVERWINTER_PROTO_VERSION = 170003;
+
 //! initial proto version, to be increased after version/verack negotiation
 static const int INIT_PROTO_VERSION = 209;
 
